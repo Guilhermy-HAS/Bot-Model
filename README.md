@@ -7,3 +7,4 @@ Claro, também não apenas copiar os códigos e não estuda-los, qualquer dúvid
 guilhermyherry7@gmail.com
 ----------------------------------------------------------------------------------------------------------------------
 © Copyright - Bot-Model Company, todos os direitos reservados.
+---
