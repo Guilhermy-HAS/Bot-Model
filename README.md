@@ -9,7 +9,7 @@ guilhermyherry7@gmail.com
 © Copyright - Bot-Model Company, todos os direitos reservados.
 ---
 🔨 Introdução:
-
+---
 Primeiramente vá no site https://discord.com/developers e crie uma nova aplicação.
 Após isso de um nome a ela, clique em Bot nas 3 barrinhas acima do site e vá em Bot, quando clicar use o botão *Add Bot*.
 Claramente, seu bot será criado com um nome gerado da aplicação (O nome que você deu no começo.), depois disso você apenas vá em OAUTH02 nas 3 barrinhas, clique em Bot e coloque as permissões que você quiser.
@@ -39,6 +39,7 @@ const client(ou bot, tanto faz) = Discord.Client();
 
 client.login(process.env.TOKEN)
 (Se colocou bot no const client, use bot.login!)
+---
 ---
 💎 EXTRA
 ---
