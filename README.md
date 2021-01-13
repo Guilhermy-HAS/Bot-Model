@@ -16,8 +16,9 @@ Claramente, seu bot será criado com um nome gerado da aplicação (O nome que v
 Clique no botão *COPY* e depois de clicar vá em outra página e adicione seu bot.
 ---
 🎉 Criando o bot:
-Depois de fazer isso, vamos no site *Repl.it* e crie uma nova repl, bom após isso apenas coloque a programação index.js e insira um nome, apenas dê ENTER e crie a sua "repl".
 ---
+Depois de fazer isso, vamos no site *Repl.it* e crie uma nova repl, bom após isso apenas coloque a programação index.js e insira um nome, apenas dê ENTER e crie a sua "repl".
+
 Criando ela, você vai nos arquivos e criar o arquivo .env e o arquivo config.json, Irei explicar o que fazer com eles abaixo:
 
 📍 Config.json - Prefixo do bot
