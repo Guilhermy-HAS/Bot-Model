@@ -21,6 +21,7 @@ Depois de fazer isso, vamos no site *Repl.it* e crie uma nova repl, bom após is
 
 Criando ela, você vai nos arquivos e criar o arquivo .env e o arquivo config.json, Irei explicar o que fazer com eles abaixo:
 ---
+
 📍 Config.json - Prefixo do bot
 ---
 na config.json você irá inserir o prefixo do seu bot de uma forma simples, o código estará abaixo:
