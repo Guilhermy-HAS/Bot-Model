@@ -1,6 +1,6 @@
 const Discord = require("discord.js")
 
-exports.run = async (client, mensagem, args) => {
+exports.run = async (client, message, args) => {
 
 let say = args.join(" ")
 if(!say) return message.reply("Insira uma mensagem")
