@@ -33,7 +33,7 @@ na config.json você irá inserir o prefixo do seu bot de uma forma simples, o c
 
 📍 .env - Token do bot
 -
-no arquivo .env você irá inserir uma coragem simples, mostrarei abaixo:
+no arquivo .env você irá inserir uma codagem simples, mostrarei abaixo:
 TOKEN=token-do-seu-bot
 (⚠️ AVISO: Um arquivo .env não pode ter espaçamentos! Não use os espaçamentos se não o cliente não consegue verificar o TOKEN.)
 
