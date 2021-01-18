@@ -6,6 +6,8 @@ Claro, também não apenas copiar os códigos e não estuda-los, qualquer dúvid
 
 [Contato profissional](guilhermyherry7@gmail.com)
 
+[Servidor de suporte](https://discord.gg/banqcWN)
+
 ----------------------------------------------------------------------------------------------------------------------
 © Copyright - Bot-Model Company, todos os direitos reservados.![ola](https://cdn.discordapp.com/attachments/799840742020874310/800590672683597854/images_7.png)
 
