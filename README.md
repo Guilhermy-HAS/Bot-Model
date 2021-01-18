@@ -7,16 +7,16 @@ Claro, também não apenas copiar os códigos e não estuda-los, qualquer dúvid
 guilhermyherry7@gmail.com
 
 ----------------------------------------------------------------------------------------------------------------------
-© Copyright - Bot-Model Company, todos os direitos reservados.
+![© Copyright - Bot-Model Company, todos os direitos reservados.](https://cdn.discordapp.com/attachments/799840742020874310/800590672683597854/images_7.png)
 
-🔨 Introdução:
+🔨 Introdução
 -
 Primeiramente vá no site https://discord.com/developers e crie uma nova aplicação.
 Após isso de um nome a ela, clique em Bot nas 3 barrinhas acima do site e vá em Bot, quando clicar use o botão *Add Bot*.
 Claramente, seu bot será criado com um nome gerado da aplicação (O nome que você deu no começo.), depois disso você apenas vá em OAUTH02 nas 3 barrinhas, clique em Bot e coloque as permissões que você quiser.
 Clique no botão *COPY* e depois de clicar vá em outra página e adicione seu bot.
 
-🎉 Criando o bot:
+![🎉 Criando o bot:](https://cdn.discordapp.com/attachments/799840742020874310/800590672481878076/images_36.jpeg)
 -
 Depois de fazer isso, vamos no site *Repl.it* e crie uma nova repl, bom após isso apenas coloque a programação index.js e insira um nome, apenas dê ENTER e crie a sua "repl".
 
@@ -45,6 +45,6 @@ const client(ou bot, tanto faz) = Discord.Client();
 client.login(process.env.TOKEN)
 (Se colocou bot no const client, use bot.login!)
 
-💎 EXTRA
+![💎 EXTRA](https://cdn.discordapp.com/attachments/799840742020874310/800590672264036402/images_37.jpeg)
 -
 Caso queira uma Index completa, ela vai estar nos Codes em Index.js!
