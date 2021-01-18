@@ -4,7 +4,7 @@ Este repositório irá servir como um modelo para bots que você pode colocar os
 Lembre-se de dar créditos a todos os comandos copiados para não haver conflitos.
 Claro, também não apenas copiar os códigos e não estuda-los, qualquer dúvida chame o contato profissional abaixo.
 
-guilhermyherry7@gmail.com
+[Contato profissional](guilhermyherry7@gmail.com)
 
 ----------------------------------------------------------------------------------------------------------------------
 © Copyright - Bot-Model Company, todos os direitos reservados.![ola](https://cdn.discordapp.com/attachments/799840742020874310/800590672683597854/images_7.png)
