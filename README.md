@@ -5,6 +5,7 @@ Lembre-se de dar créditos a todos os comandos copiados para não haver conflito
 Claro, também não apenas copiar os códigos e não estuda-los, qualquer dúvida chame o contato profissional abaixo.
 
 guilhermyherry7@gmail.com
+
 ----------------------------------------------------------------------------------------------------------------------
 © Copyright - Bot-Model Company, todos os direitos reservados.
 
