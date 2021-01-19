@@ -1,5 +1,4 @@
 const Discord = require('discord.js');
-import discord.py
 
 exports.run = async (client, message, args) => {
   
